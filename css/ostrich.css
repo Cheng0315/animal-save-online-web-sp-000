@@ -14,9 +14,7 @@ html {
   #ostrich {
     position: absolute;
     display:inline-block;
-    padding-bottom: 500px;
     top: 0;
     right: 0;
-    box-sizing: content-box;
   }
 }
